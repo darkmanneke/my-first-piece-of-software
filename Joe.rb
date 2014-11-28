@@ -1,0 +1,1 @@
+ruby class 1
