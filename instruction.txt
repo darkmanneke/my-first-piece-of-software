@@ -1,4 +1,4 @@
-these are instructions
+added a line in second clone and going to push to origin/master these are instructions
 added some lines
 inog instructions
 test wat dit geeft, gewoon dir getarred en gecopieerd naar huis
